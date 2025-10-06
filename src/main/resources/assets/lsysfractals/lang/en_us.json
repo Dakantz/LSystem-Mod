@@ -1,0 +1,13 @@
+{
+  "itemGroup.lsysfractals": "Example Mod Tab",
+  "block.lsysfractals.example_block": "Example Block",
+  "item.lsysfractals.example_item": "Example Item",
+
+  "lsysfractals.configuration.title": "LSysFractals Configs",
+  "lsysfractals.configuration.section.lsysfractals.common.toml": "LSysFractals Configs",
+  "lsysfractals.configuration.section.lsysfractals.common.toml.title": "LSysFractals Configs",
+  "lsysfractals.configuration.items": "Item List",
+  "lsysfractals.configuration.logDirtBlock": "Log Dirt Block",
+  "lsysfractals.configuration.magicNumberIntroduction": "Magic Number Text",
+  "lsysfractals.configuration.magicNumber": "Magic Number"
+}
