@@ -1,6 +1,6 @@
 # L-SyStem Mod
 
-A simple for OOP2 where an extensive [L-System](https://en.wikipedia.org/wiki/L-system) syntax can be build using just Minecraft blocks.
+A simple Minecraft Mod for OOP2 where an extensive [L-System](https://en.wikipedia.org/wiki/L-system) syntax can be build using just Minecraft blocks.
 
 ## Blocks & Items
 
