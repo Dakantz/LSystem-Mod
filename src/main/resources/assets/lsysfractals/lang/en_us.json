@@ -1,7 +1,8 @@
 {
-  "itemGroup.lsysfractals": "Example Mod Tab",
-  "block.lsysfractals.example_block": "Example Block",
-  "item.lsysfractals.example_item": "Example Item",
+  "itemGroup.lsysfractals": "Lsys",
+  "block.lsysfractals.lsysvar_block": "LSys Variable",
+  "item.lsysfractals.lsysvar_block": "LSys Variable",
+  "item.lsysfractals.lsysvar_item": "LSys Variable",
 
   "lsysfractals.configuration.title": "LSysFractals Configs",
   "lsysfractals.configuration.section.lsysfractals.common.toml": "LSysFractals Configs",

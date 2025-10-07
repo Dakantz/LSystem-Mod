@@ -7,6 +7,7 @@ import net.neoforged.fml.ModContainer;
 import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.fml.common.Mod;
 import net.neoforged.fml.event.lifecycle.FMLClientSetupEvent;
+import net.neoforged.neoforge.client.event.EntityRenderersEvent;
 import net.neoforged.neoforge.client.gui.ConfigurationScreen;
 import net.neoforged.neoforge.client.gui.IConfigScreenFactory;
 
@@ -28,4 +29,14 @@ public class LSysFractalsClient {
         LSysFractals.LOGGER.info("HELLO FROM CLIENT SETUP");
         LSysFractals.LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
     }
+
+//    @SubscribeEvent // on the mod event bus only on the physical client
+//    public static void registerEntityRenderers(EntityRenderersEvent.RegisterRenderers event) {
+//        event.registerBlockEntityRenderer(
+//                // The block entity type to register the renderer for.
+//                LSysFractals.LSYS_VAR_BLOCK_ENTITY.get(),
+//                // A function of BlockEntityRendererProvider.Context to BlockEntityRenderer.
+//                LSysVarBlockEntityRender::new
+//        );
+//    }
 }
